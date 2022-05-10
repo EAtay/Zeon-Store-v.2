@@ -1,13 +1,13 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
-import "./About.css";
-import "../../App.css";
+import "./About.scss";
+import "../../App.scss";
 // MUI
 import Breadcrumbs from "@mui/material/Breadcrumbs";
 // COMPONENTS
 import Scroll from "../../components/Scroll/Scroll";
 // REDUX
-import { getProdcutAbout } from "../../redux/productact";
+import { getProdcutAbout } from "../../redux/action";
 import { useDispatch, useSelector } from "react-redux";
 
 const About = () => {

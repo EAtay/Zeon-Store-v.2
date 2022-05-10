@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import axios from "axios";
-import "./News.css";
+import "./News.scss";
 // COMPONENTS
 import Scroll from "../../components/Scroll/Scroll";
 // MUI

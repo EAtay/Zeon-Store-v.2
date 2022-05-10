@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import "./Scroll.css";
+import "./Scroll.scss";
 // COMPONENTS
 import massen from "../../assets/icon/chat.svg";
 import up from "../../assets/icon/up.svg";

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./Header.css";
+import "./Header.scss";
 // COMPONENTS
 import Cart from "../../components/Cart/Cart";
 import CartCol from "../../components/Cart/CartCol";  
@@ -13,7 +13,7 @@ import {
   getProdcutBestG,
   getProdcutBestLimit,
   getProdcutColLim,
-} from "../../redux/productact";
+} from "../../redux/action";
 import { useLocation } from "react-router-dom";
 
 const Header = () => {

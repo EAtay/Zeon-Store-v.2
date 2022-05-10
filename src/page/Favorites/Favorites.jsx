@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
-import "./Favorites.css";
+import "./Favorites.scss";
 // COMPONENTS
 import Scroll from "../../components/Scroll/Scroll";
 import Cart from "../../components/Cart/Cart";

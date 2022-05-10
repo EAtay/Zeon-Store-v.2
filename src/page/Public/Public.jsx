@@ -1,13 +1,13 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
-import "./Public.css";
+import "./Public.scss";
 // COMPONENTS
 import Scroll from "../../components/Scroll/Scroll";
 // MUI
 import Breadcrumbs from "@mui/material/Breadcrumbs";
 // REDUX
 import { useDispatch, useSelector } from "react-redux";
-import { getProdcutPublic } from "../../redux/productact";
+import { getProdcutPublic } from "../../redux/action";
 
 const Public = () => {
   const dispatch = useDispatch();

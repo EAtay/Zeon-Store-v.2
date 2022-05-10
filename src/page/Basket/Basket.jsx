@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import "./Basket.css";
+import "./Basket.scss";
 //COMPONENTS
 import CartTrash from "../../components/Cart/CartTrash";
 import { ReactComponent as Clo } from "../../assets/icon/close.svg";

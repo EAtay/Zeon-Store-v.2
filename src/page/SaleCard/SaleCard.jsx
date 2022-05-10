@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { Link } from "react-router-dom";
-import "./SaleCard.css";
+import "./SaleCard.scss";
 // REDUX
 import { useDispatch, useSelector } from "react-redux";
 import {
@@ -10,7 +10,7 @@ import {
   getProdcutBestLimit,
   getProdcutCollectionId,
   getbasket,
-} from "../../redux/productact";
+} from "../../redux/action";
 import {
   addAndDeleteProductInFavorites,
   addAndDeleteProductInbasket,

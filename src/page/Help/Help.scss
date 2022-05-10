@@ -2,13 +2,13 @@
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    padding: 15px 99px 70px 99px;
+    padding: 14px 99px 70px 99px;
     justify-content: space-between;
 }
 
 .help_block_img {
     width: 100%;
-    max-width: 600px;
+    max-width: 500px;
     height: auto;
     margin-bottom: 24px;
 }
@@ -16,6 +16,9 @@
 .help_block_img img {
     height: auto;
     width: 100%;
+}
+.help_container_r{
+    width: 644px;
 }
 
 #accordion {
@@ -31,6 +34,8 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
+
+
     color: #393939;
 }
 

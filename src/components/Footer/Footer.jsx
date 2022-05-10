@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
-import "./Footer.css";
+import "./Footer.scss";
 // COMPONENTS
 import tel from "../../assets/icon/tel.svg";
 import mail from "../../assets/icon/mail.svg";
@@ -9,7 +9,7 @@ import teleg from "../../assets/icon/telegram.svg";
 import wat from "../../assets/icon/wa.svg";
 // REDUX
 import { useDispatch, useSelector } from "react-redux";
-import { getProdcutInform } from "../../redux/productact";
+import { getProdcutInform } from "../../redux/action";
 
 const Footer = () => {
   // INFORM

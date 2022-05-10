@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from "react";
 // REDUX
 import { useDispatch, useSelector } from "react-redux";
-import { getProdcutBest } from "../../redux/productact";
+import { getProdcutBest } from "../../redux/action";
 import { Link, useNavigate } from "react-router-dom";
 // COMPONENTS
 import search from "../../assets/icon/search.svg";
-import "./SearchInput.css";
+import "./SearchInput.scss";
 
 const SearchInput = () => {
   // bestseller

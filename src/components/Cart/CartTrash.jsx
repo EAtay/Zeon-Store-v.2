@@ -1,8 +1,4 @@
 import React, { useEffect, useReducer, useState } from "react";
-import { Link } from "react-router-dom";
-import IconButton from "@mui/material/IconButton";
-import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
-import FavoriteIcon from "@mui/icons-material/Favorite";
 import { useDispatch, useSelector } from "react-redux";
 import { getCart, getFavorites, getbasket } from "../../redux/action";
 import {
@@ -14,7 +10,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
 import { Autoplay } from "swiper";
-import "./Cart.css";
+import "./Cart.scss";
 // COMPONENTS
 import { ReactComponent as Pls } from "../../assets/icon/pls.svg";
 import { ReactComponent as Min } from "../../assets/icon/min.svg";

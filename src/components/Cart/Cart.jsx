@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
-import "./Cart.css"; 
+import "./Cart.scss"; 
 // MUI
 import IconButton from "@mui/material/IconButton";
 import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
@@ -32,11 +32,11 @@ const Cart = ({ product }) => {
   );
 
   return (
-    <div className="block_card" >
-      <div className="section_img">
+        <div className="block_card" >
+    <div className="section_img">
         {product.discount ? (
-          <div className="block_dicount">
-            <p>{product.discountSale} %</p>
+          <div className="block_dicount" >
+            <p>{product.discountSale} %</p>0
           </div>
         ) : (
           ""

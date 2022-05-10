@@ -6,7 +6,7 @@ import Checkbox from "@mui/material/Checkbox";
 import Breadcrumbs from "@mui/material/Breadcrumbs";
 // COMPONENT
 import Scroll from "../../components/Scroll/Scroll";
-import "./Search.css";
+import "./Search.scss";
 // MUI
 import IconButton from "@mui/material/IconButton";
 import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";

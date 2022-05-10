@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import "./Navbar.css";
+import "./Navbar.scss";
 // COMPONENTS
 import logo from "../../assets/img/logo.png";
 import love from "../../assets/icon/love.svg";
@@ -10,7 +10,7 @@ import close from "../../assets/icon/close.svg";
 import SearchInput from "../Search/SearchInput";
 // REDUX
 import { useDispatch, useSelector } from "react-redux";
-import { getProdcutInform } from "../../redux/productact";
+import { getProdcutInform } from "../../redux/action";
 import SearchMobile from "../Search/SearchMobile";
 
 const Navbar = ({ itemsCount }) => {

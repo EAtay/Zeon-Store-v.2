@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
 import { Carousel } from "react-bootstrap";
 import { useDispatch, useSelector } from "react-redux";
-import { getProdcutSlider } from "../../redux/productact";
-import "./CarouselBoot.css";
+import { getProdcutSlider } from "../../redux/action";
+import "./CarouselBoot.scss";
 
 const CarouselBoot = () => {
   const dispatch = useDispatch();

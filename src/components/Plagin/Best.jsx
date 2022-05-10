@@ -6,7 +6,7 @@ import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 // REDUX
 import { useDispatch, useSelector } from "react-redux";
-import { getFavorites } from "../../redux/productact";
+import { getFavorites } from "../../redux/action";
 import { addAndDeleteProductInFavorites } from "../../utils/utilis";
 // SWIPER
 import { Swiper, SwiperSlide } from "swiper/react";

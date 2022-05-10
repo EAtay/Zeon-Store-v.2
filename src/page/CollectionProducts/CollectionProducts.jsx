@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 import axios from "axios";
 import Breadcrumbs from "@mui/material/Breadcrumbs";
 import { Link } from "react-router-dom";
-import "./CollectionProducts.css";
+import "./CollectionProducts.scss";
 import Scroll from "../../components/Scroll/Scroll";
 import { ReactComponent as Right } from "../../assets/icon/right.svg";
 import { ReactComponent as Left } from "../../assets/icon/left.svg";
@@ -13,7 +13,7 @@ import { useDispatch, useSelector } from "react-redux";
 import {
   getProdcutBestLimit,
   getProdcutCollectionId,
-} from "../../redux/productact";
+} from "../../redux/action";
 import CartNews from "../../components/Cart/CartNews";
 
 const CollectionProducts = () => {

@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
-import "./Help.css";
+import "./Help.scss";
 // COMPONENTS
 import Scroll from "../../components/Scroll/Scroll";
 // MUI
@@ -10,7 +10,7 @@ import Accordion from "@mui/material/Accordion";
 import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
 // REDUX
-import { getProdcutHelp } from "../../redux/productact";
+import { getProdcutHelp } from "../../redux/action";
 import { useDispatch, useSelector } from "react-redux";
 
 const Help = () => {
@@ -39,7 +39,7 @@ const Help = () => {
         </div>
         <div className="help_block_info">
           <p className="interesting_title">Помощь</p>
-          <div>
+          <div className="help_container_r">
             {help.questim
               ? help.questim.map((help) => (
                   <Accordion id="accordion">
