@@ -1,0 +1,247 @@
+.sallCard_container {
+    width: 100%;
+    padding: 15px 99px 0;
+}
+
+.sallCard_block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+.sallCard_img {
+    width: 627px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.modal_img-zoom {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 100;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal_img_img {
+    width: 400px;
+}
+
+.img_block_img {
+    width: 150px;
+    height: 240px;
+    margin-bottom: 8px;
+    margin-right: 5px;
+}
+
+.img_block_img:nth-child(6n) {
+    margin-left: 4px;
+}
+
+.img_block_img:nth-child(-n+4) {
+    width: 308px;
+    height: 492px;
+}
+
+.sallCard_price {
+    max-width: 520px;
+    height: 425px;
+    padding: 20px;
+    position: static;
+    background-color: white;
+}
+
+.sallCard_information {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.information_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #393939;
+    margin-bottom: 18px;
+}
+
+.information_color {
+    display: flex;
+    align-items: flex-start;
+}
+
+.information_colors {
+    display: flex;
+    align-items: center;
+    margin-left: 6px;
+}
+
+.information_descr {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    color: #1D1D1B;
+    margin-bottom: 13px;
+}
+
+.information_span {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    color: #393939;
+    padding-left: 6px;
+}
+
+.information_span_sale {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration-line: line-through;
+    color: #979797;
+}
+
+.information_sale {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #393939;
+    margin: 2px 0 10px 0;
+}
+
+.information_span_about {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 180%;
+    color: #6A6A6A;
+    margin-bottom: 16px;
+}
+
+.information_color_js {
+    max-width: 436px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.sallCard_button {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.sallCard_button_shop {
+    height: 44px;
+    width: 428px;
+    padding: 12px, 30px, 12px, 18px;
+    background-color: #1D1D1B;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+
+.sallCard_button_svg *,
+.sallCard_button_svg1 * {
+    fill: white;
+}
+
+.sallCard_button_svg {
+    margin-right: 10px;
+}
+
+.sallCard_button_love {
+    width: 44px;
+    height: 44px;
+    background: #1D1D1B;
+}
+
+
+@media screen and (max-width: 1300px) {
+    .sallCard_container {
+        padding: 15px 99px 0;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .sallCard_container {
+        padding: 12px 50px 0;
+    }
+
+    .sallCard_price {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .sallCard_container {
+        padding: 10px 30px 0;
+    }
+
+    .sallCard_price {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .sallCard_container {
+        padding: 8px 16px 0;
+    }
+
+    .sallCard_img {
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-y: hidden;
+    }
+
+    .img_block_img {
+        width: 150px;
+        height: 240px;
+        margin-bottom: 8px;
+        margin-right: 5px;
+    }
+
+    .sallCard_price {
+        width: 100%;
+        height: auto;
+    }
+
+    .img_block_img:nth-child(6n) {
+        margin-left: 0;
+    }
+
+    .img_block_img:nth-child(-n+4) {
+        width: 150px;
+        height: 240px;
+        margin-bottom: 8px;
+        margin-right: 5px;
+    }
+
+    .renderborder {
+        margin-right: 6px;
+    }
+
+    .renderrow {
+        margin-right: 6px;
+    }
+}

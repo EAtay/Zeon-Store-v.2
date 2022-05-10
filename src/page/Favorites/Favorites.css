@@ -1,0 +1,9 @@
+.collection_sectionm {
+    padding: 10px 0 60px;
+}
+
+.collection_render {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-y: hidden;
+}

@@ -1,0 +1,879 @@
+{
+  "products": [
+    {
+      "img": [
+        "/img/product/best1.png",
+        "/img/product/best2.png",
+        "/img/product/best3.png",
+        "/img/product/best4.png",
+        "/img/product/best5.png",
+        "/img/product/best6.png",
+        "/img/product/best7.png",
+        "/img/product/best8.png"
+      ],
+      "color": [
+        "#73A39D",
+        "#84CC4C",
+        "#B5A8A1",
+        "#AB844A",
+        "#6977F0",
+        "#D1D1D1",
+        "#141414",
+        "#FF0000"
+      ],
+      "title": "Трикотажное платье",
+      "article": "2161622510-27",
+      "sell": 1000,
+      "discount": true,
+      "discountSale": 30,
+      "descr": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+      "collection": "Платья",
+      "size": "42-50",
+      "number": 4,
+      "material": "Полиэстер",
+      "composition": "Полиэстер",
+      "bestseller": true,
+      "latest": false,
+      "id": 1
+    },
+    {
+      "img": [
+        "/img/product/1.jpg",
+        "/img/product/2.jpg",
+        "/img/product/3.jpeg",
+        "/img/product/4.jpg",
+        "/img/product/5.jpg"
+      ],
+      "color": [
+        "#84CC4C",
+        "#AB844A",
+        "#6977F0",
+        "#141414",
+        "#FF0000"
+      ],
+      "title": "Шелковое платье",
+      "article": "2161684510-21",
+      "sell": 1000,
+      "discount": false,
+      "discountSale": 30,
+      "descr": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+      "collection": "Платья",
+      "size": "40-48",
+      "number": 2,
+      "material": "Полиэстер",
+      "composition": "Полиэстер",
+      "bestseller": true,
+      "latest": false,
+      "id": 2
+    },
+    {
+      "img": [
+        "/img/product/6.jpg",
+        "/img/product/7.jpeg",
+        "/img/product/8.jpg",
+        "/img/product/9.jpg",
+        "/img/product/10.png",
+        "/img/product/11.jpg",
+        "/img/product/12.jpg"
+      ],
+      "color": [
+        "#73A39D",
+        "#84CC4C",
+        "#B5A8A1",
+        "#AB844A",
+        "#6977F0",
+        "#D1D1D1",
+        "#141414"
+      ],
+      "title": "Bueon style Платья",
+      "article": "2161684510-20",
+      "sell": 1000,
+      "discount": true,
+      "discountSale": 15,
+      "descr": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+      "collection": "Платья",
+      "size": "40-48",
+      "number": 2,
+      "material": "Полиэстер",
+      "composition": "Полиэстер",
+      "bestseller": true,
+      "latest": false,
+      "id": 3
+    },
+    {
+      "img": [
+        "/img/product/13.jpg",
+        "/img/product/14.jpg",
+        "/img/product/15.jpg",
+        "/img/product/16.jpg",
+        "/img/product/17.jpg",
+        "/img/product/18.jpg"
+      ],
+      "color": [
+        "#73A39D",
+        "#84CC4C",
+        "#B5A8A1",
+        "#AB844A",
+        "#6977F0",
+        "#FF0000"
+      ],
+      "title": "Летние платье",
+      "article": "2161622510-27",
+      "sell": 1000,
+      "discount": false,
+      "discountSale": 30,
+      "descr": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+      "collection": "Платья",
+      "size": "42-50",
+      "number": 9,
+      "material": "Полиэстер",
+      "composition": "Полиэстер",
+      "bestseller": true,
+      "latest": false,
+      "id": 4
+    },
+    {
+      "img": [
+        "/img/product/21.jpg",
+        "/img/product/22.jpg",
+        "/img/product/20.jpeg",
+        "/img/product/23.jpg"
+      ],
+      "color": [
+        "#73A39D",
+        "#AB844A",
+        "#FF0000"
+      ],
+      "title": "Приталиное платье",
+      "article": "2161684510-21",
+      "sell": 1000,
+      "discount": false,
+      "discountSale": 30,
+      "descr": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+      "collection": "Платья",
+      "size": "40-48",
+      "number": 2,
+      "material": "Полиэстер",
+      "composition": "Полиэстер",
+      "bestseller": true,
+      "latest": false,
+      "id": 5
+    },
+    {
+      "img": [
+        "/img/product/25.webp",
+        "/img/product/26.jpg",
+        "/img/product/27.jpg",
+        "/img/product/28.jpg",
+        "/img/product/29.jpg",
+        "/img/product/30.jpg",
+        "/img/product/19.jpg"
+      ],
+      "color": [
+        "#73A39D",
+        "#84CC4C",
+        "#B5A8A1",
+        "#AB844A",
+        "#6977F0",
+        "#141414",
+        "#FF0000"
+      ],
+      "title": "Вечернее Платья",
+      "article": "2161684510-20",
+      "sell": 1000,
+      "discount": true,
+      "discountSale": 5,
+      "descr": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+      "collection": "Платья",
+      "size": "40-48",
+      "number": 2,
+      "material": "Полиэстер",
+      "composition": "Полиэстер",
+      "bestseller": true,
+      "latest": false,
+      "id": 6
+    },
+    {
+      "img": [
+        "/img/product/kur.jpg",
+        "/img/product/kur1.jpg"
+      ],
+      "color": [
+        "#AB844A",
+        "#6977F0"
+      ],
+      "title": "Зимние куртки",
+      "article": "1121684510-20",
+      "sell": 12009,
+      "discount": false,
+      "discountSale": 15,
+      "descr": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+      "collection": "Куртки",
+      "size": "38-50",
+      "number": 2,
+      "material": "Полиэстер",
+      "composition": "Полиэстер",
+      "bestseller": false,
+      "latest": true,
+      "id": 7
+    },
+    {
+      "img": [
+        "/img/product/kur2.jpg",
+        "/img/product/kur3.jpg",
+        "/img/product/kur4.jpg"
+      ],
+      "color": [
+        "#73A39D",
+        "#84CC4C",
+        "#FF0000"
+      ],
+      "title": "Зимняя куртка Gucci",
+      "article": "1121684510-18",
+      "sell": 10000,
+      "discount": true,
+      "discountSale": 5,
+      "descr": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+      "collection": "Куртки",
+      "size": "40-48",
+      "number": 3,
+      "material": "Полиэстер",
+      "composition": "Полиэстер",
+      "bestseller": false,
+      "latest": true,
+      "id": 8
+    },
+    {
+      "img": [
+        "/img/product/kur5.jpg",
+        "/img/product/kur6.jpg"
+      ],
+      "color": [
+        "#84CC4C",
+        "#AB844A"
+      ],
+      "title": "Зимняя куртка LV",
+      "article": "1121684890-18",
+      "sell": 16000,
+      "discount": false,
+      "discountSale": 5,
+      "descr": "За последние 35 лет бренд Bonucci из обычного производителя одежды превратился в широко узнаваемую марку, а его продукция – в синоним высокого качества и актуального стиля.",
+      "collection": "Куртки",
+      "size": "40-48",
+      "number": 2,
+      "material": "Полиэстер",
+      "composition": "Полиэстер",
+      "bestseller": false,
+      "latest": true,
+      "id": 9
+    }
+  ],
+  "collection": [
+    {
+      "img": "/img/collection/colec1.png",
+      "title": "Повседневная одежда",
+      "id": 1
+    },
+    {
+      "img": "/img/collection/colec2.png",
+      "title": "Одежда на пляж",
+      "id": 2
+    },
+    {
+      "img": "/img/collection/colec3.png",
+      "title": "Юбки",
+      "id": 3
+    },
+    {
+      "img": "/img/collection/kurt.jpg",
+      "title": "Куртки Bounce",
+      "id": 4
+    },
+    {
+      "img": "/img/collection/colec5.png",
+      "title": "Коллекция зима 2022",
+      "id": 5
+    },
+    {
+      "img": "/img/collection/colec6.png",
+      "title": "Коллекция весна 2022",
+      "id": 6
+    },
+    {
+      "img": "/img/collection/colec7.png",
+      "title": "Коллекция лето 2022",
+      "id": 7
+    },
+    {
+      "img": "/img/collection/colec8.png",
+      "title": "Коллекция осень 2022",
+      "id": 8
+    },
+    {
+      "img": "/img/collection/colec4.png",
+      "title": "Море 2023",
+      "id": 9
+    },
+    {
+      "img": "/img/collection/kurt.jpg",
+      "title": "Куртки Bounce",
+      "id": 10
+    }
+  ],
+  "chat": [
+    {
+      "userName": "Sardor",
+      "number": "+996502772777",
+      "id": 1
+    },
+    {
+      "userName": "vg",
+      "number": "4464645656",
+      "id": 2
+    },
+    {
+      "userName": "gughugh",
+      "number": "4545454545",
+      "id": 3
+    },
+    {
+      "userName": "asdsa",
+      "number": "78945612411414",
+      "id": 4
+    },
+    {
+      "userName": "sadasd",
+      "number": "74744444444444",
+      "id": 5
+    },
+    {
+      "userName": "sadasdsadsadsad",
+      "number": "44444444444444",
+      "id": 6
+    },
+    {
+      "userName": "sadas",
+      "number": "1111111111111111111111111111",
+      "id": 7
+    },
+    {
+      "userName": "sasssssssssssssss",
+      "number": "222222222222222222222222",
+      "id": 8
+    },
+    {
+      "userName": "sadsadsadsad",
+      "number": "1111111111111111111111",
+      "id": 9
+    },
+    {
+      "userName": "dsadsadsadsad",
+      "number": "2222222222222222222",
+      "id": 10
+    },
+    {
+      "userName": "sssssssssssssss",
+      "number": "2222222222222222222222222",
+      "id": 11
+    },
+    {
+      "userName": "asdsadsa",
+      "number": "455454445454554",
+      "id": 12
+    },
+    {
+      "userName": "sadasdsadasd",
+      "number": "1111111111111111111111111111",
+      "id": 13
+    },
+    {
+      "userName": "sadsadas",
+      "number": "1111111111111111111111111111111",
+      "id": 14
+    },
+    {
+      "userName": "222222222222222222",
+      "number": "2222222222222222222",
+      "id": 15
+    },
+    {
+      "userName": "222222222222222",
+      "number": "2222222222222222222222",
+      "id": 16
+    },
+    {
+      "userName": "111111111111111111111111111",
+      "number": "11111111111111111111111111111",
+      "id": 17
+    },
+    {
+      "userName": "2222222222222222222222",
+      "number": "222222222222222222222222",
+      "id": 18
+    },
+    {
+      "userName": "ssssssssssssssssssss",
+      "number": "11111111111111111111111111",
+      "id": 19
+    },
+    {
+      "userName": "11111111111111111111",
+      "number": "11111111111111111111111",
+      "id": 20
+    },
+    {
+      "userName": "2222222222222222222222",
+      "number": "222222222222222222222",
+      "id": 21
+    },
+    {
+      "userName": "11111111111111",
+      "number": "111111111111111111111",
+      "id": 22
+    },
+    {
+      "userName": "11111111111111",
+      "number": "111111111111111111111111",
+      "id": 23
+    },
+    {
+      "userName": "bhyuh",
+      "number": "99754594949",
+      "id": 24
+    }
+  ],
+  "newspost": [
+    {
+      "img": "/img/news/newspost.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis",
+      "id": 1
+    },
+    {
+      "img": "/img/news/newspost2.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis",
+      "id": 2
+    },
+    {
+      "img": "/img/news/newspost3.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis",
+      "id": 3
+    },
+    {
+      "img": "/img/news/newspost4.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis",
+      "id": 4
+    },
+    {
+      "img": "/img/news/newspost5.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis",
+      "id": 5
+    },
+    {
+      "img": "/img/news/newspost2.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis",
+      "id": 6
+    },
+    {
+      "img": "/img/news/newspost.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis",
+      "id": 7
+    },
+    {
+      "img": "/img/news/newspost2.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis",
+      "id": 8
+    },
+    {
+      "img": "/img/news/newspost3.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis",
+      "id": 9
+    },
+    {
+      "img": "/img/news/newspost4.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis",
+      "id": 10
+    },
+    {
+      "img": "/img/news/newspost5.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis",
+      "id": 11
+    },
+    {
+      "img": "/img/news/newspost2.png",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis",
+      "id": 12
+    }
+  ],
+  "publuch": {
+    "publuch1": "Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec ongue. Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quiSit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec onguSit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec onguSit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec onguSit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec onguSit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis scelerisque congu econgu econgu econguecongu econguecon guecon guecon guecong ueconguecong uec onguSit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque  Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus. Sed sit diam quis Sit ullamcorper at gravida quis feugiat. Laoreet leo dolor, dui eget sit viverra justo, malesuada. Viverra pharetra, augue neque felis enim dui id cum. At pellentesque diam nulla ac amet quisque quis. Est consectetur ullamcorper curabitur quis viverra hac molestie. Elit pulvinar congue ut amet adipiscing felis tincidunt. Amet quis varius aliquam hendrerit tempus."
+  },
+  "informat": {
+    "logo": "/img/logo.png",
+    "number1": "+996 555 991 507",
+    "number2": "+996 555 991 507",
+    "mail": "atai.estebesov@gmail.com",
+    "wat": "https://www.figma.com/file/JB5A3UBFtXD6mn7wW5W56X/Zeon-Store?node-id=2753%3A9666",
+    "inst": "https://www.instagram.com/zeon.ithub?igshid=YmMyMTA2M2Y=",
+    "tel": "https://web.telegram.org/z/",
+    "id": 1
+  },
+  "about": {
+    "img1": "/img/about/about1.png",
+    "img2": "/img/about/about2.png",
+    "img3": "/img/about/about3.png",
+    "text": "1У нас Вы найдёте всё, что Вам так нужно. Ассортимент магазина постоянно расширяется и дополняется в зависимости от пожеланий клиентов. Женская одежда из наших коллекций – это комфортная, стильная и качественная одежда не только на каждый день, но и для любых ситуаций по доступным ценам.Натуральные материалы, продуманные силуэты, современный дизайн и возможность легкого сочетания моделей помогут Вам всегда оставаться в центре внимания и чувствовать себя уместно в любой ситуации.Если Вы любите одеваться ярко, модно и оригинально, у нас Вы найдете все необходимое, чтобы всегда быть в центре внимания. У нас большая коллекция для любого торжества и праздника, которая сможет удовлетворить вкус самой взыскательной модницы! А для деловых ситуаций, в которых Вам непременно нужно выглядеть элегантно и стильно, мы предлагаем Вам одежду из коллекции деловой стиль и офис. Мода постоянно диктует нам свои требования и для современной девушки, желающей идти в ногу со временем, важно иметь возможность постоянно пополнять свой гардероб стильной одеждой.",
+    "id": 1
+  },
+  "help": {
+    "img": "/img/news/newspost.png",
+    "questim": [
+      {
+        "title": "Как я могу заказать одежду?",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. ",
+        "id": 1
+      },
+      {
+        "title": "Как осуществляется доставка?",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. ",
+        "id": 2
+      },
+      {
+        "title": "Где производятся вещи?",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. ",
+        "id": 3
+      },
+      {
+        "title": "Как будет упакован заказ?",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. ",
+        "id": 4
+      },
+      {
+        "title": "Lorem ipsum dolor sit amet?",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. ",
+        "id": 5
+      },
+      {
+        "title": "Есть ли возврат, при условии если одежда пришла не того размера?",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. ",
+        "id": 6
+      },
+      {
+        "title": "Как я могу оставить заявку на обратную связь",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. Ut cras ut rhoncus fermentum pharetra a sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquet laoreet a, neque, gravida urna libero iaculis lacus. Pellentesque pellentesque massa ornare sit pellentesque elit nulla. Id est tellus maecenas ornare velit. ",
+        "id": 7
+      }
+    ]
+  },
+  "slider": [
+    {
+      "img": "/img/carousel/caros.png",
+      "link": "https://trello.com/b/ZKVsBE12/zeon-front?filter=member:sardor09062001"
+    },
+    {
+      "img": "/img/carousel/caros.png",
+      "link": "https://trello.com/b/ZKVsBE12/zeon-front?filter=member:sardor09062001"
+    },
+    {
+      "img": "/img/carousel/caros.png",
+      "link": "https://trello.com/b/ZKVsBE12/zeon-front?filter=member:sardor09062001"
+    }
+  ],
+  "advantage": [
+    {
+      "img": "/img/advantage/adv1.png",
+      "title": "Удобные способы оплаты",
+      "text": "Мы предлагаем возможность безналичной оплаты",
+      "id": 1
+    },
+    {
+      "img": "/img/advantage/adv2.png",
+      "title": "Cвоевремнная доставка",
+      "text": "100% гарантия возврата товара - 14 дней на возврат, без скандалов и истерик.",
+      "id": 2
+    },
+    {
+      "img": "/img/advantage/adv3.png",
+      "title": "Профессиональная консультация",
+      "text": "Мы проконсультируем и индивидуально подойдемк Вашему заказу",
+      "id": 3
+    },
+    {
+      "img": "/img/advantage/adv4.png",
+      "title": "Акции и бонусы для покупателей",
+      "text": "Промокоды со скидками для постоянных клиентов, акции на новые позиции",
+      "id": 4
+    }
+  ],
+  "sale": [
+    {
+      "lastName": "ыыв",
+      "number": "ыыв",
+      "firstName": "ыыв",
+      "email": "ыыв",
+      "country": "ыыв",
+      "city": "ыыв",
+      "id": 1
+    },
+    {
+      "lastName": "фывфы",
+      "number": "вфывф",
+      "firstName": "вфывфы",
+      "email": "вфывфы",
+      "country": "вфвф",
+      "city": "ывфыыы",
+      "id": 2
+    },
+    {
+      "lastName": "asd",
+      "number": "dasd",
+      "firstName": "asd",
+      "email": "sad",
+      "country": "asd",
+      "city": "as",
+      "id": 3
+    },
+    {
+      "lastName": "sad",
+      "number": "as",
+      "firstName": "asd",
+      "email": "asd",
+      "country": "asd",
+      "city": "asd",
+      "id": 4
+    },
+    {
+      "lastName": "asd",
+      "number": "dasd",
+      "firstName": "asd",
+      "email": "asd",
+      "country": "asd",
+      "city": "as",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "lastName": "фыв",
+      "number": "фыв",
+      "firstName": "фывфы",
+      "email": "вфыв",
+      "country": "фывф",
+      "city": "фыв",
+      "id": 7
+    },
+    {
+      "lastName": "l",
+      "number": "5",
+      "firstName": "5",
+      "email": "4",
+      "country": "5",
+      "city": "'",
+      "id": 8
+    },
+    {
+      "lastName": "asd",
+      "number": "dsa",
+      "firstName": "asd",
+      "email": "dsa",
+      "country": "dsa",
+      "city": "dsa",
+      "id": 9
+    },
+    {
+      "lastName": "asdsa",
+      "number": "5",
+      "firstName": "dsadsa",
+      "email": "dasd",
+      "country": "sadasdsd",
+      "city": "sadsad",
+      "id": 10
+    },
+    {
+      "lastName": "sad",
+      "number": "0",
+      "firstName": "s",
+      "email": "s",
+      "country": "s",
+      "city": "ss",
+      "id": 11
+    },
+    {
+      "lastName": "s",
+      "number": "0502772777",
+      "firstName": "s",
+      "email": "sdsadsadSD@mail.ru",
+      "country": "s",
+      "city": "s",
+      "id": 12
+    },
+    {
+      "lastName": "byb",
+      "number": "5665464555",
+      "firstName": "by",
+      "email": "byb@t7f.ft7",
+      "country": "ihiih",
+      "city": "hyih",
+      "id": 13
+    },
+    {
+      "lastName": "asdasd",
+      "number": "544545454545454",
+      "firstName": "sadasd",
+      "email": "sDaD@mail.ru",
+      "country": "sad",
+      "city": "asd",
+      "id": 14
+    },
+    {
+      "lastName": "asDsadas",
+      "number": "485261475612451",
+      "firstName": "dsadasdasd",
+      "email": "asdA@ma.r",
+      "country": "dasdasd",
+      "city": "asdasdsa",
+      "id": 15
+    },
+    {
+      "lastName": "asdasd",
+      "number": "7456321485230",
+      "firstName": "asdas",
+      "email": "sadsad@ma",
+      "country": "asd",
+      "city": "asdasda",
+      "id": 16
+    },
+    {
+      "lastName": "asdsad",
+      "number": "7416235462165",
+      "firstName": "asdasdas",
+      "email": "dasd@mail.sda",
+      "country": "sadasda",
+      "city": "asdasdasd",
+      "id": 17
+    },
+    {
+      "lastName": "sadasdasd",
+      "number": "479865230653",
+      "firstName": "sadsadasd",
+      "email": "asdsada@mailas.sad",
+      "country": "asdasdsa",
+      "city": "dasdasdas",
+      "id": 18
+    },
+    {
+      "lastName": "dasdsad",
+      "number": "894651230489651",
+      "firstName": "asdasdsa",
+      "email": "sasas@mail.re",
+      "country": "фвыфв",
+      "city": "фывы",
+      "id": 19
+    },
+    {
+      "lastName": "adsd",
+      "number": "78463524865",
+      "firstName": "asdasd",
+      "email": "dsadaA@mail.ru",
+      "country": "dsad",
+      "city": "sadsa",
+      "id": 20
+    },
+    {
+      "lastName": "adsadsa",
+      "number": "8465236513",
+      "firstName": "dasdasd",
+      "email": "asd@as.r",
+      "country": "sadadsa",
+      "city": "sadsad",
+      "id": 21
+    },
+    {
+      "lastName": "asd",
+      "number": "984652349865",
+      "firstName": "asdasd",
+      "email": "sad@sa.d",
+      "country": "dasd",
+      "city": "asdas",
+      "id": 22
+    },
+    {
+      "lastName": "asdsad",
+      "number": "984651327452",
+      "firstName": "asdasd",
+      "email": "sad@mail",
+      "country": "asdasd",
+      "city": "asdasd",
+      "id": 23
+    },
+    {
+      "lastName": "asdas",
+      "number": "7845623105",
+      "firstName": "dasdsad",
+      "email": "Adasd@ma",
+      "country": "asdasda",
+      "city": "asdasdasdasd",
+      "id": 24
+    },
+    {
+      "lastName": "asd",
+      "number": "741085296341",
+      "firstName": "asdasd",
+      "email": "sadasd@ma",
+      "country": "asdasd",
+      "city": "asdasd",
+      "id": 25
+    },
+    {
+      "lastName": "asd",
+      "number": "74108527410",
+      "firstName": "sadsadasd",
+      "email": "asd@ma.r",
+      "country": "sadasd",
+      "city": "asdasd",
+      "id": 26
+    },
+    {
+      "lastName": "sdAD",
+      "number": "111111111111111",
+      "firstName": "adsadasd",
+      "email": "11sad@ss",
+      "country": "sadas",
+      "city": "dasdsad",
+      "id": 27
+    },
+    {
+      "lastName": "bu",
+      "number": "11111111111111111111111111111",
+      "firstName": "by",
+      "email": "by@sa",
+      "country": "byb",
+      "city": "by",
+      "id": 28
+    }
+  ],
+  "nomer": [
+    {
+      "id": 1,
+      "img": "/img/number/kg.png",
+      "text": "+996"
+    },
+    {
+      "id": 2,
+      "img": "/img/number/ru.webp",
+      "text": "+7 "
+    }
+  ]
+}

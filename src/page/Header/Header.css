@@ -1,0 +1,116 @@
+.home_container {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.home_container_cart {
+    width: 100%;
+    height: auto;
+    padding: 44px 99px 0 99px;
+}
+
+.home_container_adv {
+    width: 100%;
+    height: auto;
+    padding: 44px 99px 64px 99px;
+}
+
+.home_container_center {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.home_container_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #393939;
+    margin-bottom: 18px;
+}
+
+.home_container_btn {
+    height: 32px;
+    width: 107px;
+    background-color: #1D1D1B;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    color: #FFFFFF;
+    border: none;
+}
+
+.home_container_card {
+    display: flex;
+    flex-wrap: wrap;
+}
+.home_container_cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* 1 */
+@media screen and (max-width: 1300px) {
+    .home_container_cart {
+        padding: 44px 99px 0 99px;
+    }
+    
+    .home_container_adv {
+        padding: 44px 99px 64px 99px;
+    }
+  }
+  
+  /* 2 */
+  @media screen and (max-width: 1100px) {
+    .home_container_cart {
+        padding: 35px 50px 0 50px;
+    }
+    
+    .home_container_adv {
+        padding: 35px 50px 54px 50px;
+    }    
+    .home_container_card {
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-y: hidden;
+    }
+  }
+  
+  /* 3 */
+  @media screen and (max-width: 900px) {
+    .home_container_cart {
+        padding: 25px 30px 0 30px;
+    }
+    
+    .home_container_adv {
+        padding: 25px 30px 44px 30px;
+    }
+    .home_container_card {
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-y: hidden;
+    }
+  }
+  
+  /* 4 */
+  @media screen and (max-width: 700px) {
+    .home_container_cart {
+        padding: 15px 16px 0 16px;
+    }
+    
+    .home_container_adv {
+        padding: 15px 16px 44px 16px;
+    }
+    .home_container_card {
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-y: hidden;
+    }
+  }
+
+    

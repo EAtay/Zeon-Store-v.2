@@ -1,0 +1,142 @@
+.footer_container {
+    width: 100%;
+    height: auto;
+    background-color: #1D1D1B;
+    padding: 48px 167px 24px 99px;
+    flex-wrap: wrap;
+    display: flex;
+    position: relative;
+}
+
+.footer_block {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 114px;
+    margin-bottom: 37px;
+}
+
+.footer_block_img {
+    min-width: 243px;
+    height: 114px;
+    padding: 4.5px;
+    margin: 0 70px 26px 0;
+}
+
+.block_img {
+    width: 100%;
+    height: 100%;
+}
+
+.footer_block_info {
+    flex: 0 1 70%;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.block_info_one {
+    min-width: 200px;
+    height: 111px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+.info_one_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #E2E2E2;
+
+}
+
+.info_one_link {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.link {
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.info_link_flex {
+    display: flex;
+    margin-top: 13px;
+}
+
+.info_link_img {
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+}
+
+.info_one_link_descr {
+    margin-top: 13px;
+    text-decoration: none;
+}
+
+.footer_desrc {
+    position: absolute;
+    bottom: 0;
+    margin: 24px 0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #B9B9B9;
+}
+/* 1 */
+@media screen and (max-width: 1300px) {
+    .footer_container {
+        padding: 48px 167px 24px 99px;
+        height: 500px;
+    }
+}
+@media screen and (min-width: 1300px) {
+    .footer_container {
+        padding: 48px 167px 24px 99px;
+        height: auto;
+    }
+}
+/* 2 */
+@media screen and (max-width: 1100px) {
+    .footer_container {
+        padding: 38px 100px 20px 50px;
+        height: 620px;
+    }
+}
+
+/* 3 */
+@media screen and (max-width: 900px) {
+    .footer_container {
+        padding: 28px 50px 16px 30px;
+        height: 650px;
+    }
+}
+
+/* 4 */
+@media screen and (max-width: 700px) {
+    .footer_container {
+        padding: 18px 0 12px 16px;
+        height: 650px;
+        
+    }
+}

@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+.collection_wrapper {
+    width: 100%;
+    height: auto;
+}
+.collection_section {
+    width: 100%;
+    padding: 18px 99px 40px;
+}
+
+.collection_pagination {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+.pagination_next {
+    width: 44px;
+    height: 44px;
+    margin-right: 10px;
+    background-color: white;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pagination_next:last-child {
+    margin-right: 0;
+}
+.pagination_svg {
+    height: 18px;
+    width: 10px;
+}
+
+.pagination_svg * {
+    fill: rgb(0, 0, 0);
+}
+
+.button_pagination {
+    display: flex;
+}
+
+.button_pagination_render {
+    width: 44px;
+    height: 44px;
+    background-color: #ffffff;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    margin-right: 10px;
+    border: none;
+}
+.button_pagination_render_active {
+    background-color: black;
+    color: white;
+}
+.button_pagination_render:focus {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+/* 1 */
+@media screen and (max-width: 1300px) {
+    .collection_section {
+        padding: 18px 99px 40px;
+    }
+  }
+  
+  /* 2 */
+  @media screen and (max-width: 1100px) {
+    .collection_section {
+        padding: 16px 50px 30px;
+    }
+  }
+  
+  /* 3 */
+  @media screen and (max-width: 900px) {
+    .collection_section {
+        padding: 14px 30px 30px;
+    }
+  }
+  
+  /* 4 */
+  @media screen and (max-width: 700px) {
+    .collection_section {
+        padding: 12px 16px 20px;
+    }
+  }
+    
